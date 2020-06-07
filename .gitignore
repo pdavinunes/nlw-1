@@ -393,3 +393,5 @@ DerivedData/
 *.sqlite
 /server/uploads/*
 !/server/uploads/*.svg
+yarn.lock
+package-lock.json
