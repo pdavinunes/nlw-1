@@ -389,3 +389,7 @@ DerivedData/
 # .nfs files are created when an open file is removed but is still being accessed
 
 # End of https://www.gitignore.io/api/node,code,react,linux,reactnative
+
+*.sqlite
+/server/uploads/*
+!/server/uploads/*.svg
