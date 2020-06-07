@@ -3,7 +3,7 @@ Projeto criado na Next Level Week #1 da Rocketseat!
 
 ## Como rodar isso! 
 
-Bem, o primeiro passo é executar o seguinte comando no seu terminal ( ou powershell :unamused: )
+Bem, o primeiro passo é executar o seguinte comando no seu terminal ( ou powershell :unamused: ).
 
 ``` sh
   $ git clone https://github.com/pdavinunes/nlw-1.git 
@@ -39,3 +39,4 @@ Acho que só! :thinking:
   $  expo install
   $  npm start
 ```
+Agora scaneie o QR Code que aparecer com o aplicativo do Expo instalado no seu celular.
